@@ -1,2 +1,5 @@
 print("난너를사랑해")
 print("이세상은너뿐이야")
+print("AnA 선배님들 사랑해요")
+print("존경 1순위")
+print("Made by ♥️")
